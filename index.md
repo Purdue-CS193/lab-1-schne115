@@ -1,5 +1,5 @@
 
- 9
+ 
 # Julia Schneider's first CS193 Lab
 - it shows how Purdue is committed to help students with their futures by not only preparing them for a job, but preparing freshman for the next four years and tools they need for education
 
