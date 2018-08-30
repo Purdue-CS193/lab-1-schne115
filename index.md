@@ -1,31 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Julia's GitHub Pages
  
+# Julia Schneider's first CS193 Lab
+- it shows how Purdue is committed to help students with their futures by not only preparing them for a job, but preparing freshman for the next four years and tools they need for education
 
-# Julia's GitHub Page
+- I like using tools before I need to use them for more challenging courses
 
-## Computer Science Classes
-1.CS193 
+- I like getting advice from students who were in my position in the last few years
 
-2.CS180black
+- it makes me more confident in my ability to keep up with the computer science major and the technologies we will use
 
-### Things I like outside of programming
--sleeping
+- I get to meet people who are also computer science majors :)
 
--netflix
-
--dancing
-
--eating
-
--cooking/baking
-
--messing with videogames
-
--volunteering
-
--hiking
-
--camping
 
 
 
